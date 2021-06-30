@@ -11,11 +11,11 @@
 	<groupId>com.irp</groupId>
 	<artifactId>AlfaaDevelop</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>AlfaaDevelop</name>
-	<description>techinstall</description>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	
 	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 	</properties>
 
